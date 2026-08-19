@@ -39,7 +39,7 @@ MySQL client or MySQL Workbench
 Installation
 Clone the Repository
 bash
-   git clone https://github.com/yourusername/music-store-database.git
+   https://github.com/vikas12-da/music-store-sql-analysis/blob/main/README.md
    cd music-store-database
 Create the Database
 bash
