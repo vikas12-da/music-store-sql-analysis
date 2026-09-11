@@ -1,6 +1,6 @@
-# 🎵 Music Store SQL Data Analysis Project
+#  Music Store SQL Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a **Music Store Data Analysis project using MySQL**. It demonstrates how SQL can be used to manage relational data and generate business insights from a music-store database.
 
@@ -10,7 +10,7 @@ The dataset has been expanded to approximately **500 records in each table** to 
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -25,7 +25,7 @@ The main objectives of this project are:
 
 ---
 
-## 🗄️ Database Structure
+##  Database Structure
 
 The project contains the following 11 tables:
 
@@ -47,7 +47,7 @@ The database uses **Primary Keys and Foreign Keys** to maintain relationships be
 
 ---
 
-## 🔗 Database Relationships
+##  Database Relationships
 
 The major relationships include:
 
@@ -81,7 +81,7 @@ These relationships allow multiple tables to be joined together for analysis.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **MySQL**
 * SQL
@@ -111,7 +111,7 @@ These relationships allow multiple tables to be joined together for analysis.
 
 ---
 
-## 📊 Business Questions & Analysis
+##  Business Questions & Analysis
 
 The project includes SQL analysis for several business questions.
 
@@ -259,11 +259,11 @@ This demonstrates how window functions can be used to create rankings without co
 
 ---
 
-## 📈 Key Analytical Areas
+##  Key Analytical Areas
 
 The project focuses on four major areas:
 
-### 👤 Customer Analysis
+###  Customer Analysis
 
 * Customer spending
 * Repeat customers
@@ -271,14 +271,14 @@ The project focuses on four major areas:
 * Customer rankings
 * Revenue per customer
 
-### 💰 Revenue Analysis
+###  Revenue Analysis
 
 * Revenue by country
 * Revenue by genre
 * Revenue by album
 * Revenue generated from individual transactions
 
-### 🎵 Music Analysis
+###  Music Analysis
 
 * Top-selling tracks
 * Top artists
@@ -286,7 +286,7 @@ The project focuses on four major areas:
 * Genre performance
 * Playlist-track relationships
 
-### 👨‍💼 Employee Analysis
+###  Employee Analysis
 
 * Employee hierarchy
 * Sales/support representatives
@@ -294,7 +294,7 @@ The project focuses on four major areas:
 
 ---
 
-## 🧠 SQL Skills Demonstrated
+##  SQL Skills Demonstrated
 
 ### Basic SQL
 
@@ -337,7 +337,7 @@ The project therefore progresses from basic SQL queries to more advanced analyti
 
 ---
 
-## 📂 Suggested GitHub Repository Structure
+##  Suggested GitHub Repository Structure
 
 ```text
 music-store-sql-analysis/
@@ -360,7 +360,7 @@ If your current SQL file contains both the database creation/data and analysis q
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 ### Step 1: Install MySQL
 
@@ -395,7 +395,7 @@ The project includes a final count query to verify the number of records in each
 
 ---
 
-## 💡 Example Business Insights
+##  Example Business Insights
 
 After executing the queries, the analysis can help answer questions such as:
 
